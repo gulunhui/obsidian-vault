@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "475f416d6eea1c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "835c9158160e9646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daeffbd326aa3ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/系统架构师/2.0/案例分析/6 论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 论文"
+            }
+          }
+        ]
+      },
+      {
+        "id": "948bae171ed7c7a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef2e1dc3a06a2315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/系统架构师/2.0/数据库/8 分布式数据库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 分布式数据库"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d3e7d30308fed6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "03b4d3b049231e3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bcfff090092b039",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a4da6924bdeaa0db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "论文",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d5af5b978967193e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "0a198c28aed60294",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc402d1650cd3a9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6086353270d3ecf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "study/系统架构师/2.0/计算机基础/3 进程管理/进程通信.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "进程通信 的反向链接列表"
+            }
+          },
+          {
+            "id": "b41cb37f599c225c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "study/系统架构师/2.0/计算机基础/3 进程管理/进程通信.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "进程通信 的出链列表"
+            }
+          },
+          {
+            "id": "000edd1b47eb7982",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5090a4f2b8edf801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "study/系统架构师/2.0/信息系统安全/信息安全基础.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "信息安全基础 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "daeffbd326aa3ae5",
+  "lastOpenFiles": [
+    "study/系统架构师/2.0/信息系统安全/信息安全基础.md",
+    "study/系统架构师/2.0/案例分析/6 论文.md",
+    "study/系统架构师/2.0/知识回顾/11 系统架构.md",
+    "study/系统架构师/2.0/知识回顾/9 软件工程基础.md",
+    "study/系统架构师/2.0/知识回顾/12 未来技术.md",
+    "study/系统架构师/2.0/系统架构/2 基于架构的软件开发方法.md",
+    "study/系统架构师/2.0/系统架构/7 其他架构模式.md",
+    "study/系统架构师/2.0/系统架构/11 软件架构演化和维护.md",
+    "study/系统架构师/2.0/系统架构/10 软件架构复用.md",
+    "study/系统架构师/2.0/系统架构/8 特定领域软件体系结构DSSA.md",
+    "study/系统架构师/2.0/知识回顾/10 数据库.md",
+    "study/系统架构师/2.0/数据库/8 分布式数据库.md",
+    "study/系统架构师/2.0/数据库/5 关系数据库的规范化.md",
+    "study/系统架构师/2.0/数据库/6 控制功能.md",
+    "study/系统架构师/2.0/数据库/4 关系代数运算.md",
+    "study/系统架构师/2.0/软件工程基础/9 系统运行维护.md",
+    "study/系统架构师/2.0/软件工程基础/8 软件能力成熟度.md",
+    "study/系统架构师/2.0/软件工程基础/7 软件项目管理.md",
+    "study/系统架构师/2.0/软件工程基础/6 基于构件的软件工程 CBSE.md",
+    "study/系统架构师/2.0/软件工程基础/4 软件测试.md",
+    "study/系统架构师/2.0/软件工程基础/3 系统分析与设计.md",
+    "study/系统架构师/2.0/软件工程基础/2 软件开发方法.md",
+    "study/系统架构师/2.0/信息系统安全/信息系统基础.md",
+    "study/系统架构师/2.0/知识回顾/8 信息安全.md",
+    "study/系统架构师/2.0/计算机基础/1 计算机体系结构/1-10 计算机语言.md",
+    "study/系统架构师/2.0/知识回顾/7 计算机网络.md",
+    "study/系统架构师/2.0.zip",
+    "study/系统架构师/2.0/知识回顾/未命名",
+    "study/系统架构师/2.0/知识回顾",
+    "Pasted image 20251028213513.png",
+    "Pasted image 20251027230527.png",
+    "Pasted image 20251027230313.png",
+    "Pasted image 20251027225624.png",
+    "Pasted image 20251027222417.png",
+    "Pasted image 20251025214822.png",
+    "Pasted image 20251025212214.png",
+    "Pasted image 20251023231523.png",
+    "Pasted image 20251023221427.png",
+    "Pasted image 20251022231007.png",
+    "study/系统架构师/2.0/补充知识/未命名",
+    "study/系统架构师/2.0/补充知识",
+    "study/系统架构师/2.0/未来信息技术",
+    "study/系统架构师/2.0/系统架构",
+    "study/系统架构师/2.0/软件工程基础",
+    "study/系统架构师/2.0/进阶知识",
+    "study/系统架构师/2.0/案例分析",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

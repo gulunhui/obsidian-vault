@@ -1,0 +1,1 @@
+oracle 增量修改[Datax 支持增量 oracle writeMode update_datax批量oraclewriterupdate-CSDN博客](https://blog.csdn.net/u013308496/article/details/106881907)
