@@ -1,0 +1,1460 @@
+{
+  "root": "D:\\40_Knowledge\\41_Vaults",
+  "moves": [
+    {
+      "source": "F0(@Z0KBCTCVW_CS6UHEY_3.png",
+      "destination": "work\\_attachments\\F0(@Z0KBCTCVW_CS6UHEY_3.png",
+      "referenced_by": [
+        "work\\环境账号记录.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20240124135738.png",
+      "destination": "_attachments\\unreferenced\\Pasted image 20240124135738.png",
+      "referenced_by": []
+    },
+    {
+      "source": "Pasted image 20240202225754.png",
+      "destination": "study\\_attachments\\Pasted image 20240202225754.png",
+      "referenced_by": [
+        "study\\学习内容.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803112254.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250803112254.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-1 计算机硬件组成.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803112421.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250803112421.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-1 计算机硬件组成.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803113404.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250803113404.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-2 指令系统.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803115140.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250803115140.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-2 指令系统.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803115510.png",
+      "destination": "study\\系统架构师\\2.0\\_attachments\\Pasted image 20250803115510.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\知识回顾\\1 计算机基础.md",
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-2 指令系统.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803120501.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250803120501.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-3 存储系统.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803120708.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250803120708.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-3 存储系统.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250803121124.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250803121124.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-3 存储系统.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804204116.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804204116.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-5 总线.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804204258.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804204258.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-5 总线.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804204851.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804204851.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-7 软件构件.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804205646.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804205646.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-9 网络技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804205706.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804205706.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-9 网络技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804205735.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804205735.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-9 网络技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804210528.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804210528.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-10 计算机语言.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804210720.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804210720.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-10 计算机语言.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804211032.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804211032.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-11 多媒体.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804211248.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804211248.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-12 系统工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804212105.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804212105.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-12 系统工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804212136.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804212136.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-12 系统工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804212535.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804212535.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-12 系统工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250804212800.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\_attachments\\Pasted image 20250804212800.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\1 计算机体系结构\\1-12 系统工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250805234000.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\_attachments\\Pasted image 20250805234000.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\2-2 系统性能调整.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250805234447.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\_attachments\\Pasted image 20250805234447.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\2-2 系统性能调整.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250805234505.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\_attachments\\Pasted image 20250805234505.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\2-2 系统性能调整.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250806000106.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\3 进程管理\\_attachments\\Pasted image 20250806000106.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\3 进程管理\\进程管理.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250806000234.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\3 进程管理\\_attachments\\Pasted image 20250806000234.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\3 进程管理\\进程管理.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250806222758.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\4 存储管理\\_attachments\\Pasted image 20250806222758.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\4 存储管理\\4-1 存储管理.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250806225802.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\5 设备管理\\_attachments\\Pasted image 20250806225802.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\5 设备管理\\5-1 设备管理.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250806225856.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\5 设备管理\\_attachments\\Pasted image 20250806225856.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\5 设备管理\\5-1 设备管理.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250806231024.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\5 设备管理\\_attachments\\Pasted image 20250806231024.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\5 设备管理\\5-2 磁盘调度.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250812225916.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\_attachments\\Pasted image 20250812225916.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\7-1 概述.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250812231912.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\_attachments\\Pasted image 20250812231912.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\7-2 应用层协议、传输层协议.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250812232257.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\_attachments\\Pasted image 20250812232257.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\7-3 网络层协议.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250812232431.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\_attachments\\Pasted image 20250812232431.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\7-3 网络层协议.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250812232646.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\_attachments\\Pasted image 20250812232646.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\7-3 网络层协议.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250814234040.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\_attachments\\Pasted image 20250814234040.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\7 计算机网络\\7-4 网络设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250814235331.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250814235331.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息系统基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250814235656.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250814235656.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息系统基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250815001028.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250815001028.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息系统基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250815001200.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250815001200.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息系统基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250815001406.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250815001406.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息系统基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250816210516.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250816210516.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息安全基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250816210645.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250816210645.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息安全基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250816210928.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250816210928.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息安全基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250816210952.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250816210952.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息安全基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250816211558.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250816211558.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息安全基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250816212827.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250816212827.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息安全基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250816212957.png",
+      "destination": "study\\系统架构师\\2.0\\信息系统安全\\_attachments\\Pasted image 20250816212957.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\信息系统安全\\信息安全基础.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250819232236.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250819232236.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\2 数据库体系阶段.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250821205307.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250821205307.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\4 关系代数运算.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250821212507.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250821212507.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\4 关系代数运算.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822210805.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822210805.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822210900.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822210900.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822212100.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822212100.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822212627.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822212627.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822212913.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822212913.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822213335.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822213335.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822214143.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822214143.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250822214926.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250822214926.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250828215219.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250828215219.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\7 数据库设计步骤.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250828220203.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250828220203.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\7 数据库设计步骤.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250828221012.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250828221012.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\7 数据库设计步骤.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250831223413.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250831223413.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\9 NOSQL数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250831223659.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250831223659.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\9 NOSQL数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250831224057.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250831224057.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\9 NOSQL数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250831224431.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250831224431.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\9 NOSQL数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250831224452.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250831224452.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\9 NOSQL数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250902231416.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250902231416.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250902232500.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250902232500.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250902234106.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250902234106.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250903220141.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250903220141.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250903221608.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250903221608.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250903221847.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250903221847.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250903223153.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250903223153.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250903223244.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250903223244.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250903223658.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250903223658.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\10 数据库优化技术.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250903224203.png",
+      "destination": "study\\系统架构师\\2.0\\数据库\\_attachments\\Pasted image 20250903224203.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\数据库\\5 关系数据库的规范化.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250904223112.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250904223112.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\1 案例分析概述.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250907202401.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250907202401.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250907203627.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250907203627.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250908212625.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250908212625.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250908215136.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250908215136.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250911213706.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250911213706.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250911221240.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250911221240.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250912223726.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250912223726.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250912225309.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250912225309.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250913104251.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250913104251.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250913214552.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250913214552.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250913215158.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250913215158.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250913215949.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250913215949.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250913220303.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250913220303.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250914220402.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20250914220402.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\4 数据库.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250915210522.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20250915210522.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\7 大数据架构.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250915210631.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20250915210631.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\7 大数据架构.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250915210807.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20250915210807.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\7 大数据架构.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250915211447.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20250915211447.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\7 大数据架构.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250915213228.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250915213228.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250915215105.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250915215105.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916224257.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916224257.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916224354.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916224354.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916224821.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916224821.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916225312.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916225312.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916225445.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916225445.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916225617.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916225617.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916230710.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916230710.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916231009.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916231009.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916231053.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916231053.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916231333.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916231333.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916231726.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916231726.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916231854.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916231854.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916232051.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916232051.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250916232236.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250916232236.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250917220840.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250917220840.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\2 软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250917221507.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250917221507.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250917221521.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250917221521.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250917222439.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250917222439.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250917222757.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250917222757.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250917223631.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250917223631.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250918224714.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250918224714.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250918225453.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250918225453.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250918225527.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250918225527.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250918225807.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250918225807.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250918230047.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250918230047.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250918230209.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250918230209.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250918230519.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250918230519.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250920104041.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250920104041.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250920184421.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250920184421.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250920190225.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250920190225.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250920191657.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250920191657.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\3 系统分析与设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250921184119.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250921184119.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\4 软件测试.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250921184941.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250921184941.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\6 基于构件的软件工程 CBSE.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250921185148.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250921185148.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\6 基于构件的软件工程 CBSE.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250921185523.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250921185523.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\6 基于构件的软件工程 CBSE.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250921185928.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250921185928.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\7 软件项目管理.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250921190733.png",
+      "destination": "study\\系统架构师\\2.0\\软件工程基础\\_attachments\\Pasted image 20250921190733.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\软件工程基础\\8 软件能力成熟度.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250922212546.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250922212546.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\1 软件架构.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250922214220.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250922214220.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\1 软件架构.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250923212132.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250923212132.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\2 基于架构的软件开发方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250923215807.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250923215807.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\3 软件架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250925211340.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250925211340.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\3 软件架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250925211410.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250925211410.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\3 软件架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250925221350.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250925221350.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\4 轻量级架构.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250927173903.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250927173903.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\7 其他架构模式.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250928195510.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250928195510.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\9 架构评估.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250928195701.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250928195701.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\9 架构评估.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250928195827.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250928195827.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\9 架构评估.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250928204601.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250928204601.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\9 架构评估.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250928205039.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250928205039.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\9 架构评估.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250929210849.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250929210849.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20250929211256.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20250929211256.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009213134.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009213134.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009213358.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009213358.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009213504.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009213504.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009213622.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009213622.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009213825.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009213825.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009213855.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009213855.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009214027.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009214027.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009214137.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009214137.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009214243.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009214243.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009214436.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009214436.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\11 软件架构演化和维护.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009220000.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009220000.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\12 可靠性基础知识.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009220539.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009220539.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\12 可靠性基础知识.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009220824.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009220824.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\12 可靠性基础知识.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009220949.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009220949.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\12 可靠性基础知识.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009221237.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009221237.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\12 可靠性基础知识.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251009222223.png",
+      "destination": "study\\系统架构师\\2.0\\系统架构\\_attachments\\Pasted image 20251009222223.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\系统架构\\12 可靠性基础知识.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251010221110.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251010221110.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251010222010.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251010222010.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251010222251.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251010222251.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251010222309.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251010222309.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251010223027.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251010223027.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251010224746.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251010224746.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251010225441.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251010225441.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251011201511.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251011201511.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251011205502.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251011205502.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\2 架构风格.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251012200021.png",
+      "destination": "study\\系统架构师\\2.0\\补充知识\\_attachments\\Pasted image 20251012200021.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\补充知识\\1 嵌入式.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251012200250.png",
+      "destination": "study\\系统架构师\\2.0\\补充知识\\_attachments\\Pasted image 20251012200250.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\补充知识\\1 嵌入式.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251012201501.png",
+      "destination": "study\\系统架构师\\2.0\\补充知识\\_attachments\\Pasted image 20251012201501.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\补充知识\\2 知识产权.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251013224228.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251013224228.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\1 通信架构设计理论与实践.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251013224622.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251013224622.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\1 通信架构设计理论与实践.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251013225511.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251013225511.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\2 安全架构设计理论与实践.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251013230706.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251013230706.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\2 安全架构设计理论与实践.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251014222310.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251014222310.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\3 信息系统架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251014222625.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251014222625.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\3 信息系统架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251014222633.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251014222633.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\3 信息系统架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251014223016.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251014223016.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\3 信息系统架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251014223351.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251014223351.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\3 信息系统架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251015213400.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251015213400.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\5 云原生架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251015213556.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251015213556.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\5 云原生架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251015215248.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251015215248.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\5 云原生架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251016221454.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251016221454.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\6 面向服务架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251016221705.png",
+      "destination": "study\\系统架构师\\2.0\\进阶知识\\_attachments\\Pasted image 20251016221705.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\进阶知识\\6 面向服务架构设计.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251020203953.png",
+      "destination": "study\\系统架构师\\2.0\\_attachments\\Pasted image 20251020203953.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\选择题专题.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251020211659.png",
+      "destination": "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\_attachments\\Pasted image 20251020211659.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\计算机基础\\2 系统性能评价\\2-3 性能评估方法.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251022231007.png",
+      "destination": "study\\系统架构师\\2.0\\_attachments\\Pasted image 20251022231007.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\选择题专题.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251023221427.png",
+      "destination": "study\\系统架构师\\2.0\\_attachments\\Pasted image 20251023221427.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\选择题专题.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251023231523.png",
+      "destination": "study\\系统架构师\\2.0\\_attachments\\Pasted image 20251023231523.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\选择题专题.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251025212214.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251025212214.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\3 软件工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251025214822.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251025214822.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\3 软件工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251027222417.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251027222417.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\3 软件工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251027225624.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251027225624.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\3 软件工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251027230313.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251027230313.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\3 软件工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251027230527.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251027230527.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\3 软件工程.md"
+      ]
+    },
+    {
+      "source": "Pasted image 20251028213513.png",
+      "destination": "study\\系统架构师\\2.0\\案例分析\\_attachments\\Pasted image 20251028213513.png",
+      "referenced_by": [
+        "study\\系统架构师\\2.0\\案例分析\\5 web架构设计.md"
+      ]
+    }
+  ]
+}

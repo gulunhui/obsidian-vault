@@ -19,7 +19,7 @@
 ## MVC模式
 视图、控制器、模型
 优点：允许多种用户界面扩展、易于维护、功能强大的用户界面
-![[Pasted image 20251028213513.png]]
+![[study/系统架构师/2.0/案例分析/_attachments/Pasted image 20251028213513.png]]
 
 hibernate 将sql封装，使用简单。移植性更好
 mybatis 半自动化，支持更复杂sql

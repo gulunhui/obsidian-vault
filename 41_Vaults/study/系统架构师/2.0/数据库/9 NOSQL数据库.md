@@ -14,15 +14,15 @@
 最终一致性
 
 ## 比较
-![[Pasted image 20250831223413.png]]
+![[study/系统架构师/2.0/数据库/_attachments/Pasted image 20250831223413.png]]
 
 ## nosql数据库类型
 ### 键值数据库
-![[Pasted image 20250831223659.png]]
+![[study/系统架构师/2.0/数据库/_attachments/Pasted image 20250831223659.png]]
 
 ### 列族数据库
-![[Pasted image 20250831224057.png]]
+![[study/系统架构师/2.0/数据库/_attachments/Pasted image 20250831224057.png]]
 ### 文档数据库
-![[Pasted image 20250831224431.png]]
+![[study/系统架构师/2.0/数据库/_attachments/Pasted image 20250831224431.png]]
 ### 图形数据库
-![[Pasted image 20250831224452.png]]
+![[study/系统架构师/2.0/数据库/_attachments/Pasted image 20250831224452.png]]

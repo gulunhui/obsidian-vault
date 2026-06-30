@@ -1,11 +1,11 @@
 是一种基于分布对象技术、强调通过可复用构件设计与构造软件系统复用途径
 
-![[Pasted image 20250921184941.png]]
+![[study/系统架构师/2.0/软件工程基础/_attachments/Pasted image 20250921184941.png]]
 
 ## 主要过程
-![[Pasted image 20250921185148.png]]
+![[study/系统架构师/2.0/软件工程基础/_attachments/Pasted image 20250921185148.png]]
 
-![[Pasted image 20250921185523.png]]
+![[study/系统架构师/2.0/软件工程基础/_attachments/Pasted image 20250921185523.png]]
 
 ## 缺点
 1. 要求经验丰富的架构师
